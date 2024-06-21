@@ -1,5 +1,5 @@
 # Java-Project
-3.TECHNOLOGY USED
+TECHNOLOGY USED
 
 
 The "Hotel Administration System" is developed using a robust technology stack to ensure efficiency, reliability, and scalability.
