@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENT
+
+
+Hardware Requirement:
+Processor :	i3 and above
+Memory :	Minimum 1 GB RAM
+Hard disk :	Minimum 50 GB
+
+
+
+Software Requirement:
+
+Operating system :	Windows 7 and above
+Compiler :	Apache Net Beans
